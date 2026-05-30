@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configsonnect",
+        "uuid": 8206272,
+        "checksum": "7o42do"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
